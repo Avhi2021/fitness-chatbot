@@ -14,7 +14,4 @@ A simple chatbot that provides fitness-related advice, including workout recomme
 - Use APIs for fitness data.
 - Deploy the chatbot on a cloud platform.
 
-## How to Run
-- Clone the repository.
-- Set up a Python virtual environment.
-- Install dependencies (requirements.txt coming soon).
+
